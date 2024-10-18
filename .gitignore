@@ -1,0 +1,13 @@
+.DS_Store
+.vscode/
+
+__pycache__/
+*.egg-info/
+build/
+
+log_dir/
+
+cifar-10-batches-py
+cifar-100-python
+*.tar.gz
+*.pt
